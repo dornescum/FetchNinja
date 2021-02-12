@@ -1,10 +1,10 @@
 <template>
-$END$
+<h1>404</h1>
 </template>
 
 <script>
 export default {
-name: "NotFound"
+  name: "NotFound"
 }
 </script>
 

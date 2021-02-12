@@ -11,9 +11,11 @@
 
 <script>
 export default {
+  // id props si il pot folosi
   props: ['id'],
   data() {
     return {
+      // initial este null si de asta il pun in v-if
       job: null
     }
   },
